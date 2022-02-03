@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-    int a[100],n,i,j,sw;
+    int a[100],n,i,j,sw; // array size is very large give size from 1 to 10
     clrscr();
     printf("Enter number of elements:");
     scanf("%d",&n);
